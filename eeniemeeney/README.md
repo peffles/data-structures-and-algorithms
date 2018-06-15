@@ -1,0 +1,1 @@
+![Rubic](mockInterview.jpg)
